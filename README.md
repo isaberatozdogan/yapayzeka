@@ -1,0 +1,2 @@
+# yapayzeka
+yapay zeka 
